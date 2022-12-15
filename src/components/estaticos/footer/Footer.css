@@ -1,0 +1,28 @@
+.text-decorator-none{
+    text-decoration: none !important;
+}
+.box1{
+    background-color: #3F51B5;
+    height: 120px;
+}
+.box2{
+    background-color: #303F9F;
+    height: 60px;
+}
+.redes{
+    font-size: 60px;
+    color: white;
+}
+.textos{
+    color: white;
+    text-decoration: none;
+}
+.vd{
+    background-color: green !important;
+}
+.vd1{
+    background-color: rgb(21, 213, 21) !important;
+}
+.pt{
+    color: black !important;
+}

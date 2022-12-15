@@ -1,0 +1,26 @@
+.textos1bg{
+    font-weight: bold;
+}
+.imagembg{
+    background-image: url(img/blog.png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.text-ddecorator-none{
+    text-decoration: none !important;
+}
+.cz{
+    background-color: darkgrey;
+}
+.back1{
+    background-color: green !important;
+}
+.branco{
+   background-color: white;
+}
+.pt{
+    color: black;
+}

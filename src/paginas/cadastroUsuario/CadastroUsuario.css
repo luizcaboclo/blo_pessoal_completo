@@ -1,0 +1,29 @@
+.imagembgl{
+    background-image: url(img/blog-530x400\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.text2bg{
+    font-weight: bold !important;
+}
+.btnCancelarbg{
+    margin-right: 20px !important;
+}
+.cz{
+    background-color: darkgray;
+}
+.vd{
+    background-color: green;
+}
+.pt{
+    color: black;
+}
+.vermelho{
+    background-color: red;
+}
+.branco{
+    background-color: white;
+}

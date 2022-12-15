@@ -1,0 +1,16 @@
+.cursor{
+    cursor: pointer;
+    color: white
+}
+.text-decorator-none{
+    text-decoration: none;
+}
+.b1{
+    color: black;
+}
+.g1{
+    color: green !important;
+}
+.back{
+    background-color: rgb(15, 162, 15) !important;
+}

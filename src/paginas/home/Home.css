@@ -1,0 +1,32 @@
+.caixabg{
+    background-color: #3f5185;
+}
+.titulobg{
+    color: white !important;
+    font-weight: bold !important;
+
+}
+.botaobg{
+    border-Color: white !important;
+    background-color: #3F51B5;
+    color: white !important;
+}
+.postagensbg{
+    background-color: white;
+}
+.back1{
+    background-color: rgb(13, 182, 13) !important;
+}
+.img{
+    
+    background-image: url(img/ilustração-vetorial-de-pessoas-falantes-aquisição-e-comunicação-diálogo-conceito-conversa-sociedade-falar-homem-falante-168507450.png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+.pt{
+    color: black !important;
+}
